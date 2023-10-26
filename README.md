@@ -21,7 +21,7 @@ Before using this script, you'll need the following:
    ```bash
    pip3 install requests
 
-3. Plcae your actual Steam Web API key in api_key.txt with.
+3. Plcae your actual Steam Web API key in api_key.txt.
 
 4. Run the script:
    ```bash
